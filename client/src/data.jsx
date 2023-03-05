@@ -51,7 +51,7 @@ export const sliderItems = [
             },
             {
             id:2,
-            img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+            img:"https://i0.wp.com/me99.in/wp-content/uploads/2021/08/Golden-Yellow-Plain-T-Shirt.png?fit=1440%2C1608&ssl=1",
             },
             {
             id:3,
@@ -71,7 +71,7 @@ export const sliderItems = [
             },
             {
             id:7,
-            img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+            img:"https://cdn.webshopapp.com/shops/224066/files/346138437/image.jpg",
             },
             {
             id:8,
